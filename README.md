@@ -32,8 +32,7 @@ This is a first version of the project, feel free to contribute !
     ├── README.md
     └── Theory
         ├── 1-Cross Section.ipynb
-        ├── Data
-        └── fusion-reactivities-side-by-side.png
+        └── Data
 ```
 
 ## Contributing
