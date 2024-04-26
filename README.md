@@ -5,7 +5,7 @@
     <h1 align="center">NUCLEON</h1>
 </p>
 <p align="center">
-    <em>Fusing Data, Powering Future Innovations</em>
+    <em>Compact Nuclear Fusion : Theory & Application</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/3az1le/Nucleon?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -62,10 +62,5 @@ Contributions are welcome! Here are several ways you can contribute:
 - **[Report Issues](https://github.com/3az1le/Nucleon/issues)**: Submit bugs found or log feature requests for the `Nucleon` project.
 - **[Submit Pull Requests](https://github.com/3az1le/Nucleon/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 - **[Join the Discussions](https://github.com/3az1le/Nucleon/discussions)**: Share your insights, provide feedback, or ask questions.
-
----
-
-
-[**Return**](#-overview)
 
 ---
