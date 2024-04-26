@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" alt="project-logo">
+  <img src="/Miscellaneous/logo1.png" width="100" alt="project-logo">
 </p>
 <p align="center">
     <h1 align="center">NUCLEON</h1>
@@ -17,13 +17,13 @@
 	<!-- default option, no dependency badges. -->
 </p>
 
-##  Overview
+## Overview
 
 Nucleon, an open-source project, focuses on nuclear fusion research by providing crucial data analysis and simulation tools. The project includes features for managing cross-section data, enabling in-depth studies on fusion reactions. Nucleon ensures secure access to sensitive information, enhancing research integrity. With a core emphasis on fusion energy technologies, Nucleons robust architecture supports complex calculations and visualizations, aiding researchers and enthusiasts in understanding nuclear fusion mechanisms.
 
 ---
 
-##  Repository Structure
+## Repository Structure
 
 ```sh
 └── Nucleon/
@@ -35,8 +35,7 @@ Nucleon, an open-source project, focuses on nuclear fusion research by providing
         └── fusion-reactivities-side-by-side.png
 ```
 
-
-##  Contributing
+## Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
 
