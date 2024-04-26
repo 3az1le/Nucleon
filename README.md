@@ -19,7 +19,8 @@
 
 ## Overview
 
-Nucleon, an open-source project, focuses on nuclear fusion research by providing crucial data analysis and simulation tools. The project includes features for managing cross-section data, enabling in-depth studies on fusion reactions. Nucleon ensures secure access to sensitive information, enhancing research integrity. With a core emphasis on fusion energy technologies, Nucleons robust architecture supports complex calculations and visualizations, aiding researchers and enthusiasts in understanding nuclear fusion mechanisms.
+Nucleon is an open-source project focused on compact fusion and plasma stabilization. You will find i) theory about nuclear fusion to understand compact fusion devices ii) algorithms used to stabilized small scale plasma devices.
+This is a first version of the project, feel free to contribute !
 
 ---
 
