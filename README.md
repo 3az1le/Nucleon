@@ -17,25 +17,6 @@
 	<!-- default option, no dependency badges. -->
 </p>
 
-<br><!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary><br>
-
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ Modules](#-modules)
-- [ Getting Started](#-getting-started)
-  - [ Installation](#-installation)
-  - [ Usage](#-usage)
-  - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
-</details>
-<hr>
-
 ##  Overview
 
 Nucleon, an open-source project, focuses on nuclear fusion research by providing crucial data analysis and simulation tools. The project includes features for managing cross-section data, enabling in-depth studies on fusion reactions. Nucleon ensures secure access to sensitive information, enhancing research integrity. With a core emphasis on fusion energy technologies, Nucleons robust architecture supports complex calculations and visualizations, aiding researchers and enthusiasts in understanding nuclear fusion mechanisms.
